@@ -8,12 +8,12 @@ Projeto BackEnd Lista de Jogos - Funcionalidade de reordenar a lista de jogos no
 
 ![Modelo de dominio](https://github.com/San4si/backend-Java-ListaJogos/blob/main/src/main/img/dslist-model.png)
 
-**Tecnologias utilizadas**
-Back end
-Java
-Spring Boot
-JPA / Hibernate
-Maven
+### Tecnologias Utilizadas
+
+- Back end: Java Spring Boot
+- Persistência de Dados: JPA / Hibernate
+- Gerenciamento de Dependências: Maven
+
 
 
 
